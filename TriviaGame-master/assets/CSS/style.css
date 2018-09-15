@@ -1,0 +1,22 @@
+head {
+    font-family: 'Gamja Flower', cursive; 
+    text-align: center;
+    margin-left: 50%;
+}
+body {
+    font-family: 'Gamja Flower', cursive;
+}
+.navbar-brand {
+    font-family: 'Gamja Flower', cursive;
+}
+h3 {
+    font-family: 'Gamja Flower', cursive;
+}
+.question {
+    font-family: 'Gamja Flower', cursive;
+    margin-left: 3%;
+    margin-top: 2%;
+}
+.form-check-label {
+    font-family: 'Gamja Flower', cursive;
+}
